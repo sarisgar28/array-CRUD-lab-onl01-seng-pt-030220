@@ -41,6 +41,6 @@ return "wow"
 end
 
 def retrieve_last_element_from_array(array)
-    array = ["0"]
-    return [arrays]
+    array = ["arrays"]
+    return [0]
    end
