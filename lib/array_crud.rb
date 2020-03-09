@@ -6,9 +6,9 @@ def create_an_array
   my_array = ["1","2","3","4"]
   end
 
-def add_element_to_end_of_array(array,element,last)
-    array = ["array","element","last"]
-    element << "element_1"
+def add_element_to_end_of_array(array,element)
+    array = ["array","element"]
+    element << "element"
     puts array.inspect 
     end
  
