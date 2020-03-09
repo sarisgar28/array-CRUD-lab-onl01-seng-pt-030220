@@ -9,7 +9,7 @@ def create_an_array
 def add_element_to_end_of_array(array,element)
     array = ["array","element"]
     element << "element_1"
-    puts arrays.inspect 
+    puts array.inspect 
     end
  
 
