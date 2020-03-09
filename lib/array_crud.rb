@@ -42,5 +42,5 @@ end
 
 def retrieve_last_element_from_array(array)
     array = ["arrays!"]
-    return [0]
+    return [arrays!]
    end
