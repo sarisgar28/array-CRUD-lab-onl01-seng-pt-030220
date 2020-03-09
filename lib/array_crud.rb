@@ -7,9 +7,9 @@ def create_an_array
   end
 
 def add_element_to_end_of_array(array,element)
-    array_and_element = ["1","2"]
-    array_and_element << "3"
-    array_and_element.inspect 
+    array_element = ["1","2"]
+    array_element << "3"
+    array_element.inspect 
     end
   end 
  
